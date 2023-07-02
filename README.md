@@ -15,5 +15,8 @@
   - Prediction: ![image](https://github.com/KathyrnC/cifar/assets/114298577/35523fe9-34d1-408b-88d0-c2b50de64983)
 
 -References:
+  - Buiminhhien2k (2021)
+  - Morillo (2020)
+  - Github/rasbt/deeplearning-models
 
 
